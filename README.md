@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Social links profile 
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -17,18 +17,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### The challenge
 
-Frontend Mentor: [Challenge link]([https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H])
+Frontend Mentor: [Challenge link]([https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ])
 
 ### Screenshot
 
-![](./screenshot.jpg)
-<img width="2560" height="1354" alt="{EA439462-FCD4-41F6-8B3E-53741DDE7F4A}" src="https://github.com/user-attachments/assets/4953b803-9da0-4fc8-9504-42e98eb5349f" />
-
+<img width="2405" height="1337" alt="{DEB42235-8F4E-43FB-8A0D-FCF41737F50C}" src="https://github.com/user-attachments/assets/29e73109-025a-4301-b5c2-a48731d32ea5" />
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/ShadowZarina/fem-qr-code-component)
-- Live Site URL: [GitHub Pages](https://shadowzarina.github.io/fem-qr-code-component/)
+- Solution URL: [GitHub](https://github.com/ShadowZarina/fem-social-links-profile)
+- Live Site URL: [GitHub Pages](https://shadowzarina.github.io/fem-social-links-profile/)
 
 ## My process
 
